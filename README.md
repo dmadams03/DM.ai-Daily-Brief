@@ -1,4 +1,4 @@
-# DM.ai-Daily-Brie
+# DM.ai-Daily-Brief
 [DM.ai_Report_April-1-2026_MOBILE.html](https://github.com/user-attachments/files/26793889/DM.ai_Report_April-1-2026_MOBILE.html)
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>The Daily DM.ai</title>
+  <title>The Dail DM.ai</title>
   <style>
 
 span.smallcaps{font-variant: small-caps;}
