@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>The Dail DM.ai</title>
+  <title>The Daily DM.ai</title>
   <style>
 
 span.smallcaps{font-variant: small-caps;}
