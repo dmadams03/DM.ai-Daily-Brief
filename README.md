@@ -249,375 +249,498 @@ color: var(--ledger-teal);
 <body>
 <header id="title-block-header">
 <h1 class="title">The Daily DM.ai</h1>
-<p class="subtitle">April 16, 2026</p>
+<p class="subtitle">April 12-18, 2026</p>
 </header>
-<h1 id="april-16-2026-briefing">April 16, 2026 Briefing</h1>
-<p>The day turns on whether pressure is becoming policy. The House has
-left President Trump’s Iran campaign in place while the blockade of
-Iranian ports starts producing enforcement numbers. The IMF is warning
-governments not to answer the oil shock with broad fuel subsidies, the
-White House budget push is asking Congress to finance a much larger
-security state, Kevin Warsh’s path to the Fed is getting more
-complicated, and Robert F. Kennedy Jr. is defending a health-budget
-reorganization that would move money and authority across the federal
-health system.</p>
-<h2 id="things-to-come">Things To Come</h2>
-<p><strong>Iran diplomacy has a short runway.</strong> Current reporting
-still points to a possible second round of U.S.-Iran talks, with
-Islamabad and Geneva discussed as venues. The ceasefire deadline remains
-April 22, so a missed meeting would leave the blockade doing more of the
-administration’s work by itself.</p>
-<p><strong>The Warsh hearing is April 21.</strong> The Senate Banking
-Committee hearing is scheduled for next Tuesday. Warsh now has to answer
-policy questions, independence questions, and questions about his
-financial holdings before Powell’s chair term expires on May 15.</p>
-<p><strong>The budget fight is moving from slogans to tables.</strong>
-The administration’s fiscal 2027 proposal is now colliding with
-committee hearings, the IMF’s debt warning, and the cost of a wider
-military posture in the Middle East.</p>
-<p><strong>Canada’s fuel-tax suspension starts Monday.</strong> Prime
-Minister Mark Carney’s suspension of the federal fuel excise tax is
-scheduled to run from April 20 through Labor Day, September 7, if
-implementation proceeds as announced.</p>
+<h1 id="april-12-18-2026-weekly-briefing">April 12-18, 2026 Weekly
+Briefing</h1>
+<p>The week began with the failure of U.S.-Iran talks in Islamabad and
+ended with the Strait of Hormuz back under Iranian restrictions. In
+between, Washington tried to separate an Iranian-port blockade from the
+wider shipping lane, Tehran briefly opened a commercial route, oil fell
+hard, and then Saturday brought another reversal.</p>
+<p>The economic story followed the waterway. The IMF and IEA described a
+war shock already large enough to move growth, inflation, debt, and
+oil-demand forecasts. At home, the same pressure showed up in a Federal
+Reserve succession fight, a ten-day FISA stopgap, and agency fights over
+public health and immigration enforcement. Abroad, Canada and Hungary
+moved from elections into governing consequences.</p>
 <h2 id="briefing-lineup">Briefing Lineup</h2>
-<p><strong>Lead story:</strong> Congress leaves Trump’s Iran war
-authority intact while the blockade starts to bite. <strong>Major
-stories:</strong> the IMF debt warning and U.S. budget fight, the Fed
-succession squeeze, and Kennedy’s health-budget hearing.
-<strong>Briefs:</strong> Israel-Lebanon diplomacy, Canada’s fuel-tax
-suspension, a Fifth Circuit ruling on home distilling, and a Georgia
-special election that matters because the House margin is so thin.</p>
-<h2 id="congress-lets-the-iran-war-run">Congress Lets The Iran War
-Run</h2>
-<p>Washington, D.C.; Strait of Hormuz; Persian Gulf; Tehran, Iran</p>
-<h3 id="context-before-the-day">Context Before The Day</h3>
-<p>Congress has already had one early chance to force the Iran war back
-into an authorization debate. On March 5, the House rejected a
-war-powers resolution that would have required Trump to stop the
-campaign unless Congress explicitly authorized hostilities. That vote
-kept the air war politically attached to the White House, even as the
-conflict expanded from strikes into maritime pressure around the
-Gulf.</p>
-<p>The April 16 version of the story is sharper because the blockade is
-no longer just an announced policy. It is now an operation with ships
-turning around, U.S. forces deployed, and regional actors deciding
-whether the ceasefire and talks are real enough to keep a naval
-confrontation from becoming the next phase of the war.</p>
+<p><strong>Lead story:</strong> Hormuz became the week’s hard edge.
+<strong>Major stories:</strong> the war shock moved into global growth,
+debt, oil, and Fed politics; Congress gave Section 702 only ten more
+days; HHS, CDC, and ICE carried the administration’s agency churn.
+<strong>Lower-profile stories:</strong> Canada turned by-elections into
+a governing majority, Hungary began its post-Orban transition, Haiti TPS
+cleared the House, New Jersey filled a House seat, a federal appeals
+court opened a path for home distilling, and the Trump-Pope clash kept
+moving through Catholic politics.</p>
+<h2 id="hormuz-became-the-weeks-hard-edge">Hormuz Became The Week’s Hard
+Edge</h2>
+<p>Strait of Hormuz; Persian Gulf; Islamabad; Washington; Tehran</p>
+<h3 id="context-before-the-week">Context Before The Week</h3>
+<p>The U.S.-Israel war against Iran had already made the Strait of
+Hormuz the main economic battlefield before April 12. The strait
+normally carries about one-fifth of global oil and liquefied natural gas
+traffic, so control over its passage was not only a military issue. It
+was the point where nuclear demands, Iranian leverage, Gulf shipping,
+global energy prices, insurance risk, and domestic politics all met.</p>
+<p>The week opened with face-to-face talks in Pakistan. Vice President
+JD Vance said the sides had not reached an agreement because the United
+States wanted Iran to make an affirmative commitment against seeking a
+nuclear weapon or the tools to quickly build one. Pakistan said it would
+keep trying to mediate. The talks had lasted through the weekend, but
+they did not produce a settlement.</p>
 <h3 id="the-facts">The Facts</h3>
-<p><strong>The House has not taken the war away from Trump.</strong>
-Reuters reported that the House rejected the March 5 Iran war-powers
-resolution 219 to 212, with most Republicans backing the president and
-the vote largely following party lines. A later House push remained live
-enough for PBS to carry an expected-vote feed, but there was no clean
-day-of official House record captured in this run showing that Congress
-had reversed course. The practical result is unchanged: Trump still has
-room to conduct the Iran campaign while Congress argues over
-authorization after the fact.</p>
-<p><strong>The blockade has moved from announcement to
-enforcement.</strong> Reuters, carried by The Straits Times, reported
-that six merchant vessels turned back after U.S. orders and that no
-ships had made it past the blockade in the first 24 hours described by
-the military. The same report put the enforcement force at more than
-10,000 U.S. military personnel, more than a dozen warships, and dozens
-of aircraft. Those figures make the blockade a large military operation,
-not merely a diplomatic label.</p>
-<p><strong>The target is Iranian ports, not every vessel in
-Hormuz.</strong> The operational distinction still matters. The reported
-restrictions are aimed at Iranian ports, coastal areas, and associated
-traffic, while Washington has described non-Iranian transit through the
-strait differently. That difference may matter for international law,
-insurance markets, and neutral shippers. It does not remove the risk
-that a boarding, diversion, or mistaken identification becomes a
-shooting incident.</p>
-<p><strong>The economic channel is already open.</strong> The Strait of
-Hormuz is one of the world’s central energy corridors. When enforcement
-becomes real, insurers, ship owners, refiners, and governments do not
-wait for a total closure before changing behavior. Even partial
-disruption can raise freight costs and fuel prices, which then reach
-food, manufacturing, and household budgets.</p>
-<p><strong>The political question is authorization, not only
-tactics.</strong> The war-powers fight is not a procedural sideshow. If
-the blockade is treated as part of the same hostilities that began with
-the February 28 U.S. and Israeli strikes, Congress is being asked
-whether it will force a formal authorization debate. If it is treated as
-a separate maritime pressure tactic, the White House gains flexibility
-but the legal and diplomatic boundary gets harder to explain.</p>
-<p><strong>Confidence note:</strong> High for the March House vote
-result and for reported blockade enforcement details carried from
-Reuters. Medium for the current congressional path because the day-of
-official roll-call record for any new Iran authorization vote was not
-captured cleanly before this report was frozen.</p>
-<h2 id="the-debt-warning-hits-the-war-budget">The Debt Warning Hits The
-War Budget</h2>
-<p>Washington, D.C.; International Monetary Fund; global energy
-markets</p>
-<h3 id="context-before-the-day-1">Context Before The Day</h3>
-<p>April 15 moved the fiscal story out of the watchlist. The IMF
-released its Fiscal Monitor material, and the message was badly timed
-for Washington’s budget politics: governments are already carrying
-heavier debt, and the Middle East war is tempting them to cushion
-households and firms from higher energy and food prices. At the same
-time, the Trump administration is pressing for a fiscal 2027 budget that
-leans hard into defense, border, law enforcement, and domestic-program
-reductions.</p>
+<p><strong>The blockade order was narrower than the early
+rhetoric.</strong> Trump said on Sunday that the Navy would begin
+blockading ships trying to enter or leave the Strait of Hormuz, and he
+threatened action against Iranian forces and vessels that had paid Iran
+a toll. The formal CENTCOM release was more precise. It said U.S. forces
+would begin blocking maritime traffic entering or exiting Iranian ports
+at 10 a.m. ET on April 13, including ports on the Arabian Gulf and Gulf
+of Oman, while not impeding ships transiting Hormuz to or from
+non-Iranian ports. That distinction became the week’s central tension:
+the White House wanted to deny Iran economic leverage, but a full strait
+closure would have punished allies, neutral shippers, and energy
+importers along with Iran.</p>
+<p><strong>Iran’s own demands kept the strait tied to a larger
+settlement.</strong> Reporting from the failed Islamabad round described
+Tehran seeking control over the strait, reparations, a regional
+ceasefire that included Lebanon, release of frozen assets, and the
+ability to collect transit fees. Three loaded supertankers reportedly
+passed through the strait during the ceasefire window, but hundreds of
+tankers remained backed up in the Gulf. That left the ceasefire looking
+less like a recovery and more like a controlled test of passage.</p>
+<p><strong>By Friday, the week looked as if it might
+de-escalate.</strong> Iranian Foreign Minister Abbas Araghchi said the
+strait was open for commercial vessels during the remaining Lebanon
+truce period. Reuters reporting carried by the Hawaii Tribune-Herald
+said roughly 20 ships were moving toward the strait, while shipping
+companies still wanted clarity on mines and route rules. Oil prices fell
+about 10 percent and stocks rose on the possibility that traffic might
+resume. Trump said he expected a deal soon and said talks could continue
+over the weekend.</p>
+<p><strong>Saturday reversed the market relief.</strong> Iran’s military
+command said control of the strait had returned to strict armed-forces
+management because the U.S. blockade of Iranian ports remained in
+effect. AP live coverage reported the renewed restrictions, and Axios
+reported that Iranian gunboats fired on tanker traffic as the reversal
+unfolded. Trump told reporters that the United States was still talking
+to Iran, but the weekend diplomacy no longer had the benefit of a stable
+shipping opening.</p>
+<p><strong>Lebanon moved on a separate track.</strong> The
+Israel-Lebanon truce created a diplomatic side channel rather than a
+full regional peace. AP reported that Lebanese leaders discussed
+readiness for talks with Israel during the 10-day ceasefire, and that
+Lebanon’s president and prime minister were weighing next steps after a
+rare U.S.-hosted diplomatic contact. That mattered because Iran tied
+some of its war demands to the wider regional front, but progress in
+Lebanon did not by itself settle the Hormuz standoff.</p>
+<p><strong>What is still unclear:</strong> The number of ships safely
+cleared through Hormuz by the end of Saturday remained unsettled in the
+captured record. The same is true of whether the next U.S.-Iran talks
+would proceed after Iran reimposed restrictions, how insurers and
+shippers would price the renewed risk, and whether mine-clearance
+warnings would keep traffic low even if a route reopened again.</p>
+<p><strong>Confidence note:</strong> High for the formal CENTCOM
+blockade scope, the failed Islamabad talks, the Friday opening
+announcement, the Saturday reversal, and the basic market reaction.
+Medium for precise ship counts, mine risk, and the durability of any
+weekend negotiating channel because those facts were still moving during
+the live weekly window.</p>
+<h2 id="the-war-shock-moved-into-the-economy">The War Shock Moved Into
+The Economy</h2>
+<p>Washington; Ottawa; global energy markets; central banks</p>
+<h3 id="context-before-the-week-1">Context Before The Week</h3>
+<p>The economic problem was not just the daily oil price. A prolonged
+disruption in Hormuz would cut into energy supply, raise shipping and
+insurance costs, push up fuel and food prices, and pressure governments
+to spend money they do not have. The United States entered the week with
+inflation still above target, a Federal Reserve chair transition
+approaching, and a White House trying to shape monetary policy while the
+war was creating a supply shock.</p>
+<p>The April 12 week also coincided with the IMF and IEA publishing
+their spring assessments. Those documents turned the war from a
+breaking-news market event into a measured global forecast problem.</p>
 <h3 id="the-facts-1">The Facts</h3>
-<p><strong>The IMF is warning against broad fuel relief.</strong> IMF
-staff wrote that the war shock is arriving while public finances are
-already strained. The institution argues that support for families or
-firms facing higher energy and food costs should be targeted and
-temporary, not broad and borrowing-financed. The warning is aimed at a
-familiar political reflex: fuel subsidies feel simple, but they are
-expensive, poorly targeted, and hard to unwind.</p>
-<p><strong>The debt numbers are moving the wrong way.</strong> IMF staff
-said global gross public debt rose to 94 percent of GDP and is projected
-to reach 100 percent by 2029, one year earlier than expected in the
-prior forecast. In a severe scenario with oil prices staying far above
-the reference forecast and financial conditions tightening, the IMF said
-global debt-at-risk would exceed 120 percent of GDP. That is not a
-prediction of default tomorrow. It is a warning that the cushion is
-smaller when the next shock arrives.</p>
-<p><strong>The U.S. budget fight is cutting across that
-warning.</strong> The administration has been pushing a large defense
-increase, with reporting and administration-aligned previews describing
-a fiscal 2027 request centered on a much larger military budget,
-law-enforcement increases, immigration enforcement, and cuts to other
-domestic programs. The politics are simple to describe but hard to pay
-for: the White House wants more money for force, border, and policing
-while arguing that savings and tariff revenue can carry the load.</p>
-<p><strong>The Iran cost is still not transparent.</strong> Defense
-deployments, ship operations, air operations, munitions use, replacement
-stock, and regional basing all carry real costs. The public budget
-documents and committee exchanges captured for this run do not provide a
-clean total price for the Iran campaign or the blockade. That gap
-matters because the administration is asking Congress for a larger
-defense posture while one of the largest current operations is still
-being priced in fragments.</p>
-<p><strong>Canada has already chosen temporary fuel relief.</strong>
-Mark Carney’s first move after turning his minority government into a
-majority was to suspend Canada’s federal fuel excise tax from April 20
-through Labor Day. That is exactly the kind of policy the IMF is warning
-governments to keep temporary and targeted. Canada has more
-parliamentary room after the by-election sweep; it does not have a
-different oil market.</p>
-<p><strong>Confidence note:</strong> High for the IMF figures and
-recommendation language, drawn from IMF material. Medium for the final
-U.S. budget trajectory because congressional appropriations,
-reconciliation politics, and war costs remain unresolved.</p>
-<h2 id="the-fed-fight-gets-messier-before-the-hearing">The Fed Fight
-Gets Messier Before The Hearing</h2>
-<p>Washington, D.C.; Federal Reserve; Senate Banking Committee</p>
-<h3 id="context-before-the-day-2">Context Before The Day</h3>
-<p>Jerome Powell’s chair term ends May 15, while his underlying Board
-term runs beyond that. That difference has always mattered. A president
-can replace the chair at the end of a chair term; removing a governor
-from the Board is a much heavier legal fight. The nomination of Kevin
-Warsh is supposed to give the White House a replacement path. Instead,
-the path is now tangled with a Justice Department investigation, Senate
-hesitation, market concern about Fed independence, and Warsh’s own
-financial disclosure.</p>
+<p><strong>The IMF said the war had halted expected momentum.</strong>
+In its April 14 World Economic Outlook briefing, the IMF said the Middle
+East war had stopped what had been expected to be improving 2026 growth.
+Its reference case assumed a short-lived conflict and a 19 percent rise
+in energy prices this year, with global growth at 3.1 percent and
+headline inflation at 4.4 percent. Its adverse case put growth at 2.5
+percent and inflation at 5.4 percent. Its severe case pushed growth to 2
+percent and inflation above 6 percent.</p>
+<p><strong>The oil-market shock was already showing up in volumes, not
+just prices.</strong> The IEA’s April Oil Market Report said global oil
+demand was now expected to contract by 80,000 barrels per day in 2026, a
+swing of 730,000 barrels per day from the prior month’s forecast. It
+also said global supply had fallen by 10.1 million barrels per day in
+March to 97 million barrels per day, with attacks on energy
+infrastructure and restrictions on tanker movement through Hormuz
+creating a historic disruption. The report’s base case still assumed
+regular Middle East deliveries by midyear, but it warned that this could
+be too optimistic.</p>
+<p><strong>The IMF’s fiscal warning landed while governments were
+already reacting.</strong> The IMF’s Fiscal Monitor blog said public
+finances were strained before the war: the global fiscal deficit was 5
+percent of GDP in 2025, gross public debt had risen to 94 percent of
+GDP, and debt was projected to reach 100 percent by 2029. It warned that
+broad fuel subsidies are costly, poorly targeted, difficult to reverse,
+and can push prices higher by encouraging consumption when supply is
+constrained. The warning was immediate, not theoretical. On April 14,
+Canada’s Mark Carney suspended the federal fuel excise tax in response
+to the Iran war as his first act after securing a majority
+government.</p>
+<p><strong>The Fed fight became a war-economy fight.</strong> The Senate
+Banking Committee kept Kevin Warsh’s nomination hearing on the calendar
+for Tuesday, April 21, at 10 a.m. Powell’s chair term ends May 15, 2026.
+Senate Banking Democrats called for delaying Warsh’s proceedings until
+criminal investigations involving Powell and Governor Lisa Cook were
+closed, arguing that the nomination could not be separated from
+Fed-independence concerns. The oil shock made the hearing more
+consequential: senators now have to test a nominee under inflation
+pressure, market stress, and White House pressure at the same time.</p>
+<p><strong>Friday’s oil drop did not erase the week.</strong> A
+temporary reopening of Hormuz lowered crude prices and gave markets a
+rally, but Saturday’s renewed restrictions showed why the IMF framed the
+shock in scenarios. If the waterway repeatedly opens and closes, central
+banks cannot treat the price move as a clean one-day adjustment, and
+finance ministries cannot assume households and firms will absorb the
+cost without political pressure for relief.</p>
+<p><strong>What is still unclear:</strong> The IMF and IEA both used
+scenarios that depend on how long the conflict and shipping restrictions
+last. Saturday’s reversal pushed the live facts closer to the
+adverse-risk side, but it did not prove the severe case. The Warsh
+hearing, oil-market response, and government subsidy politics all
+remained open at the end of the weekly window.</p>
+<p><strong>Confidence note:</strong> High for the IMF forecast figures,
+the IEA supply and demand figures, Canada’s fuel-tax suspension, the
+Warsh hearing date, and Powell’s chair-term end date. Medium for the
+ultimate inflation, growth, and Fed-policy consequences because they
+depend on Hormuz traffic, energy prices, financial conditions, and the
+nomination process after the report window.</p>
+<h2 id="fisa-got-ten-days-not-a-settlement">FISA Got Ten Days, Not A
+Settlement</h2>
+<p>Washington; U.S. House; U.S. Senate</p>
+<h3 id="context-before-the-week-2">Context Before The Week</h3>
+<p>Section 702 of the Foreign Intelligence Surveillance Act lets U.S.
+intelligence agencies collect communications of non-U.S. persons abroad
+without individualized warrants. The practical fight is what happens
+when Americans communicate with those foreign targets and their calls,
+emails, or texts are swept into the collected material.
+National-security officials argue that the authority is needed for
+terrorism, espionage, cyber, and drug-trafficking cases. Privacy-minded
+lawmakers in both parties want more court approval before Americans’
+information can be searched.</p>
+<p>The authority was set to expire Monday, April 20. The Trump
+administration wanted a longer renewal without new limits, and the Iran
+war gave supporters a sharper national-security argument. House
+dissenters did not let that argument settle the vote.</p>
 <h3 id="the-facts-2">The Facts</h3>
-<p><strong>Warsh is still pointed at an April 21 hearing.</strong> The
-Senate Banking schedule cited in the official-source capture lists a
-nomination hearing for Warsh next Tuesday. That keeps the formal process
-alive. It does not mean confirmation is settled.</p>
-<p><strong>The Powell investigation is still part of the confirmation
-math.</strong> Current reporting continues to link Warsh’s nomination to
-a Justice Department investigation into Powell’s congressional
-statements about Federal Reserve headquarters renovation costs. The
-issue is not only whether prosecutors can make a case. It is whether
-senators believe the probe is a legitimate accountability matter or a
-pressure campaign against an independent central bank.</p>
-<p><strong>Warsh has a disclosure problem to answer even if he has no
-legal problem.</strong> A financial filing reported this week showed
-significant crypto-related holdings and a large personal net-worth
-range. If confirmed, he would likely have to divest or recuse from
-matters where holdings create conflicts. The larger confirmation
-question is whether senators and markets believe he can separate his
-policy judgment from the financial and political ecosystem around
-Trump’s second term.</p>
-<p><strong>Inflation makes the independence question less
-theoretical.</strong> A central bank transition is easier when inflation
-is quiet. This one is happening while energy prices, the blockade, and
-fiscal policy all point toward renewed pressure. If markets believe the
-new chair is expected to deliver lower rates because the White House
-wants them, the transition can itself become a financial condition.</p>
-<p><strong>Powell’s legal status is still a guardrail.</strong> The
-chair term and Board term are different offices. A chair replacement
-would not automatically remove Powell from the Board. That makes the May
-15 deadline important, but it does not turn the Federal Reserve into a
-normal cabinet department.</p>
-<p><strong>Confidence note:</strong> High for the chair-term timing and
-the scheduled hearing. Medium for the confirmation path and
-investigation consequences because the decisive events are still
-ahead.</p>
-<h2 id="kennedy-defends-a-smaller-rewired-health-department">Kennedy
-Defends A Smaller, Rewired Health Department</h2>
-<p>Washington, D.C.; Department of Health and Human Services</p>
-<h3 id="context-before-the-day-3">Context Before The Day</h3>
-<p>Robert F. Kennedy Jr. went to the House Ways and Means Committee with
-a budget that is doing two things at once. It asks Congress to fund a
-specific health agenda built around the administration’s Make America
-Healthy Again priorities, and it asks Congress to accept a
-reorganization that would consolidate several public-health functions
-into a new Administration for a Healthy America.</p>
+<p><strong>The House could not pass the bigger plan.</strong> Republican
+leaders tried to move a five-year renewal with revisions, then an
+18-month renewal closer to what Trump wanted. CBS News reported that the
+five-year package was blocked by a dozen Republicans, and the 18-month
+version was stopped by 20 Republicans. Axios described the result as a
+setback for Speaker Mike Johnson and the White House after days of
+negotiation.</p>
+<p><strong>The stopgap passed in the middle of the night.</strong> The
+House approved a short extension by unanimous consent after 2 a.m.
+Friday. The Senate cleared the extension by voice vote later Friday
+morning, sending it to Trump. The new deadline is April 30, giving
+Congress roughly ten days to find something more durable.</p>
+<p><strong>The privacy fight is the core fight.</strong> NPR’s
+explanation through OPB put the issue plainly: Section 702 targets
+foreigners abroad, but some of the roughly 350,000 targets are in
+contact with Americans, and privacy lawmakers have pushed for court
+approval before federal agents review an American’s information. CRS
+background explains the broader mechanics of Section 702 authorization
+and querying, but the April 17 politics were not a technical seminar.
+They were a dispute over whether wartime urgency should let the
+administration renew the program without a warrant requirement.</p>
+<p><strong>The Iran war changed the pressure but not the coalition
+math.</strong> Trump said the authority mattered for the military and
+national security. Intelligence agencies and national-security hawks
+made the same case. But the final result shows that a narrow House can
+block even a wartime surveillance extension when libertarian
+Republicans, privacy Democrats, and procedural distrust converge.</p>
+<p><strong>What is still unclear:</strong> The April 30 bill could
+become another short stopgap, a clean extension, a reform package with
+warrant language, or a failed vote that forces litigation and emergency
+workarounds. The captured record did not show a stable majority for any
+of those paths.</p>
+<p><strong>Confidence note:</strong> High for the House and Senate
+passage, the April 30 date, the failed longer renewals, and the basic
+Section 702 mechanics. Medium for the next legislative path because the
+coalition that stopped the longer renewal had not produced its own final
+bill by the end of the weekly window.</p>
+<h2 id="agency-churn-became-the-domestic-story">Agency Churn Became The
+Domestic Story</h2>
+<p>Washington; Atlanta; Department of Health and Human Services;
+Department of Homeland Security</p>
+<h3 id="context-before-the-week-3">Context Before The Week</h3>
+<p>The administration’s second-year domestic agenda is running through
+operating agencies, not only cabinet speeches. HHS carries the vaccine,
+public-health, food, drug, Medicare, Medicaid, and research fights. ICE
+carries the mass-deportation and detention fight. Both agencies entered
+the week under congressional scrutiny, budget pressure, and personnel
+instability.</p>
+<p>That made April 16 and 17 more than a personnel footnote. The same
+week that Kennedy defended HHS in Congress, Trump named a CDC nominee.
+The same week ICE’s acting director testified on Capitol Hill, DHS
+confirmed he would leave at the end of May.</p>
 <h3 id="the-facts-3">The Facts</h3>
-<p><strong>The hearing is real and current.</strong> The Ways and Means
-Committee scheduled Kennedy for a 9:00 a.m. April 16 hearing on the
-president’s fiscal 2027 budget. The committee posted Kennedy’s written
-testimony, giving the run a direct primary record rather than only
-outside reporting.</p>
-<p><strong>Kennedy’s testimony puts the discretionary HHS request at
-$111.1 billion.</strong> The testimony says the fiscal 2027 budget
-supports HHS’s mission with $111.1 billion in discretionary budget
-authority. It also says the new Administration for a Healthy America
-would have a $14.7 billion discretionary budget focused on primary care,
-maternal and child health, mental health, HIV/AIDS, and workforce
-development.</p>
-<p><strong>The proposed consolidation is not just a box on an org
-chart.</strong> Kennedy’s testimony says the Administration for a
-Healthy America would combine the Office of the Assistant Secretary for
-Health, HRSA, SAMHSA, and several CDC centers and programs. That kind of
-consolidation can reduce duplication if the merged programs keep
-capacity and accountability. It can also disrupt disease surveillance,
-grants, and specialized expertise if the cuts outrun the management
-plan.</p>
-<p><strong>The policy package mixes popular and disputed
-claims.</strong> The testimony emphasizes nutrition, food dyes, formula
-review, price transparency, biosimilars, drug pricing, chronic disease,
-Lyme disease work, and AI-backed childhood cancer data funding. Some of
-those items are normal public-health priorities. Others sit inside
-politically charged fights over vaccines, gender medicine, nutrition
-science, and the federal role in health agencies. The hearing matters
-because the budget would turn those arguments into staffing, grants, and
-program authority.</p>
-<p><strong>Congress is the hard part.</strong> The administration
-proposed a similar health-agency consolidation last year, and Congress
-did not give it the full structure requested. A budget testimony can
-describe savings and coordination. It still has to survive
-appropriators, authorizers, affected constituencies, and members whose
-districts depend on health grants or research dollars.</p>
-<p><strong>Confidence note:</strong> High for the hearing date, written
-testimony, $111.1 billion HHS discretionary request, and $14.7 billion
-AHA figure. Medium for implementation effects because Congress has not
-enacted the reorganization and affected agencies would have to operate
-through the transition.</p>
+<p><strong>Kennedy opened the HHS budget fight in the House.</strong>
+The House Ways and Means Committee held a full committee hearing with
+Health and Human Services Secretary Robert F. Kennedy Jr. on April 16.
+His written testimony emphasized fraud controls at CMS, changes in
+pediatric gender-care policy, organ-donation oversight, hormone-therapy
+warnings, childhood cancer data funding, and Lyme-disease initiatives.
+The hearing also gave lawmakers a public venue to test Kennedy’s vaccine
+record, health-agency reorganization, and proposed budget
+priorities.</p>
+<p><strong>Trump picked Erica Schwartz for CDC director.</strong> CBS
+News reported that Trump announced he would nominate Dr. Erica Schwartz,
+a Coast Guard rear admiral and former deputy surgeon general, to lead
+the CDC. The announcement also named Sean Slovenski, Jennifer Shuford,
+and Sara Brenner for related CDC and public-health roles. AP reporting
+carried by Boston.com put the nomination in the context of CDC
+leadership churn, including Susan Monarez’s short tenure and Jay
+Bhattacharya serving as acting CDC director.</p>
+<p><strong>The CDC nomination does not settle the agency fight.</strong>
+The CDC director now needs Senate confirmation. Schwartz would enter an
+agency overseen by Kennedy after fights over vaccine schedules,
+scientific independence, and leadership dismissals. Confirmation would
+give the agency a named leader, but it would not by itself answer
+whether CDC recommendations will be treated as insulated science,
+administration policy, or a mix of both.</p>
+<p><strong>ICE got an exit date.</strong> AP reported that acting ICE
+director Todd Lyons will resign at the end of May, with DHS Secretary
+Markwayne Mullin giving May 31 as his last day. Reuters and AP accounts
+both placed Lyons at the center of Trump’s immigration enforcement push.
+AP reported that ICE received a large infusion of money, expanded hiring
+and detention capacity, and ramped up arrests under his leadership;
+critics focused on aggressive tactics, fatal operations, and warrant
+questions.</p>
+<p><strong>Leadership change is not policy change.</strong> HHS and ICE
+both remain headed into more congressional scrutiny. Kennedy has more
+hearings ahead. ICE’s successor will inherit funding, enforcement
+pressure, litigation risk, and public backlash. Personnel moves can
+change management, but the week’s evidence points to continuity of
+conflict, not a quiet reset.</p>
+<p><strong>What is still unclear:</strong> The Senate confirmation path
+for Schwartz, the next ICE director, the final shape of HHS
+appropriations, and DHS funding remained unresolved. The week
+established the next fights more clearly than it resolved them.</p>
+<p><strong>Confidence note:</strong> High for the Ways and Means hearing
+date, the Schwartz nomination announcement, the CDC leadership context,
+and Lyons’ May 31 departure. Medium for agency consequences because
+confirmation, succession, budgets, litigation, and enforcement policy
+all remain unsettled.</p>
+<h2 id="canada-and-hungary-changed-the-governing-math">Canada And
+Hungary Changed The Governing Math</h2>
+<p>Ottawa; Toronto; Budapest</p>
+<h3 id="context-before-the-week-4">Context Before The Week</h3>
+<p>The week was dominated by the U.S.-Iran war, but two allied or
+partner political systems changed in ways that matter beyond one
+election night. Canada moved from a minority government to a Liberal
+majority under Mark Carney. Hungary moved from 16 years of Viktor
+Orban’s rule toward a transition led by Peter Magyar’s Tisza party. Both
+stories are about what winners can do after winning.</p>
+<h3 id="the-facts-4">The Facts</h3>
+<p><strong>Carney turned special elections into control of
+Parliament.</strong> AP reported that Carney’s Liberals won the special
+elections needed to secure a majority government. The result gave the
+Liberals enough seats to pass legislation without opposition-party
+support. It also gave Carney a clearer hand on trade, energy, defense,
+and war-economy policy just as the Hormuz shock was raising fuel
+prices.</p>
+<p><strong>The first act was fuel relief.</strong> AP reported the next
+day that Carney suspended Canada’s federal fuel excise tax in response
+to the Iran war. The move was politically direct: it used the new
+majority to deliver immediate consumer relief. It also raised the same
+issue the IMF warned about this week. Fuel relief can be popular and
+fast, but if it is broad and prolonged it can weaken price signals and
+strain budgets.</p>
+<p><strong>Hungary entered a different era.</strong> Al Jazeera reported
+that Orban conceded after Peter Magyar’s Tisza party won Hungary’s
+parliamentary election, with turnout near 80 percent and a two-thirds
+majority. AP described Hungary as weighing life after Orban after a
+political earthquake. The scale matters because a two-thirds
+parliamentary majority could give the next government power to rewrite
+constitutional and institutional rules, not simply swap ministries.</p>
+<p><strong>The European stakes are immediate.</strong> Hungary under
+Orban was a persistent obstacle inside the European Union on Ukraine,
+sanctions, rule-of-law disputes, and relations with Moscow. Magyar’s
+victory does not instantly solve those disputes. It does mean Brussels,
+Kyiv, and Washington now have to account for a Hungary whose internal
+politics may no longer be built around Orban’s veto power.</p>
+<p><strong>What is still unclear:</strong> Canada’s fuel-tax move still
+has to meet the budget and inflation test. Hungary’s transition still
+has to pass through coalition management, institutional handover, and
+policy decisions on the EU, Ukraine, Russia, and domestic courts. The
+election results were decisive; the governing results were just
+beginning.</p>
+<p><strong>Confidence note:</strong> High for Carney’s majority, the
+fuel-tax suspension, Orban’s concession, and Magyar’s election victory.
+Medium for the policy consequences because both governments were moving
+from victory into implementation during the same weekly window.</p>
 <h2 id="briefs">Briefs</h2>
-<h3 id="israel-and-lebanon-get-a-separate-clock">Israel And Lebanon Get
-A Separate Clock</h3>
-<p>Reporting on the Iran war live file says Lebanese and Israeli
-officials agreed to continue talks after a meeting with Secretary of
-State Marco Rubio, while Israel has continued strikes against Hezbollah
-targets in Lebanon. That track matters because the Iran war is not
-confined to Iran. A Lebanon-Israel process can lower one regional risk
-even while the blockade raises another. It is not yet a settlement, and
-the death toll reported across the wider conflict remains wartime
-accounting rather than a final record.</p>
-<p><strong>Confidence note:</strong> Medium-high for the existence of
-the talks and continued strikes, based on current live reporting. Medium
-for casualty totals and ceasefire durability.</p>
-<h3 id="carney-uses-his-new-majority-on-fuel">Carney Uses His New
-Majority On Fuel</h3>
-<p>Mark Carney’s Liberals now hold 174 of 343 House of Commons seats
-after winning three by-elections and receiving earlier floor crossings.
-His first move was to suspend Canada’s federal fuel excise tax on
-gasoline and diesel from April 20 until Labor Day, September 7. The
-political message is direct: the new majority is being used immediately
-on affordability. The economic risk is also direct: fuel relief can
-cushion households while encouraging more consumption in a constrained
-market.</p>
-<p><strong>Confidence note:</strong> High for the majority-seat count
-and announced fuel-tax suspension, supported by AP and Canadian
-reporting carried through The Tribune.</p>
-<h3 id="home-distilling-gets-a-fifth-circuit-opening">Home Distilling
-Gets A Fifth Circuit Opening</h3>
-<p>The Fifth Circuit has ruled against the federal ban on home
-distilling, holding that the 158-year-old prohibition exceeded
-Congress’s taxing power because it prevented creation of taxable goods
-rather than collecting tax from them. The ruling does not mean
-unregulated liquor production is suddenly open everywhere. Permits, tax
-rules, safety rules, and state law still matter, and the federal
-government can seek further review. The case is a small-canvas
-constitutional ruling with a large symbolic hook: how far Congress can
-go when it uses taxation as the entry point for prohibition.</p>
-<p><strong>Confidence note:</strong> High for the existence and
-direction of the Fifth Circuit ruling. Medium for practical consequences
-while federal and state regulatory responses are still developing.</p>
-<h3 id="georgia-keeps-the-house-math-tight">Georgia Keeps The House Math
-Tight</h3>
-<p>The Washington Post’s live election coverage is tracking the special
-election for Marjorie Taylor Greene’s former Georgia seat between Clay
-Fuller and Shawn Harris. The race is lower-profile than Iran or the
-budget, but it matters because the House has been operating with a
-narrow majority and one-vote stories keep recurring. A single special
-election will not settle the national agenda, but it can change how much
-room party leaders have when members defect.</p>
-<p><strong>Confidence note:</strong> High that the special election is
-active in current coverage. No result is assigned here because a final
-official result was not captured before report freeze.</p>
+<h3 id="haiti-tps-cleared-the-house">Haiti TPS Cleared The House</h3>
+<p>Rep. Laura Gillen said the House passed H.R. 1689, a bill to extend
+Temporary Protected Status for more than 350,000 Haitians for three
+years, by a bipartisan 224 to 204 vote. The bill matters because it cut
+against the administration’s broader immigration posture and came
+through discharge-petition pressure. It is not yet law. The Senate
+remains the next wall.</p>
+<p><strong>Confidence note:</strong> Medium-high for the House passage
+and sponsor-stated vote total. Medium for final enactment because Senate
+action was not captured by the end of the weekly window.</p>
+<h3 id="new-jersey-filled-a-house-seat">New Jersey Filled A House
+Seat</h3>
+<p>AP reported that Democrat Analilia Mejia won the special election in
+New Jersey’s 11th Congressional District, defeating Republican Joe
+Hathaway. The district was expected to lean Democratic, but the win
+still changes the arithmetic in a narrow House and adds a labor-linked
+progressive voice to the caucus.</p>
+<p><strong>Confidence note:</strong> High for the AP-called result.
+Medium for national effect because House margins and November politics
+remain fluid.</p>
+<h3 id="home-distilling-got-a-fifth-circuit-opening">Home Distilling Got
+A Fifth Circuit Opening</h3>
+<p>The Houston Chronicle reported that a federal appeals court ruled
+against a 158-year-old federal home distilling ban. The ruling is
+narrower than the culture-war framing around it: it does not suddenly
+make unregulated alcohol production safe or universally legal. It does
+reopen a federalism and commerce-clause fight over how far Congress can
+go in criminalizing small-scale home production.</p>
+<p><strong>Confidence note:</strong> Medium-high for the ruling’s
+existence. Medium for practical effect because further appeals, federal
+enforcement guidance, and state laws can still limit what changes on the
+ground.</p>
+<h3 id="the-pope-fight-kept-crossing-into-politics">The Pope Fight Kept
+Crossing Into Politics</h3>
+<p>Rep. Brian Fitzpatrick, a Catholic Republican from Pennsylvania,
+publicly condemned Trump’s remarks about Pope Leo XIV on April 13. The
+statement matters because the pope’s criticism of war and migration
+policy has become a U.S. political issue, not only a church matter. The
+weekly signal is narrower than a national realignment, but
+Catholic-heavy districts now have a conflict that candidates can be
+asked to answer.</p>
+<p><strong>Confidence note:</strong> High for Fitzpatrick’s statement.
+Medium for electoral effect because the political response is still
+being measured through campaigns, clergy, voters, and local
+reporting.</p>
 <h2 id="sources">Sources</h2>
-<h3 id="congress-lets-the-iran-war-run-1">Congress Lets The Iran War
-Run</h3>
-<p><a href="https://talk103fm.com/category/politics/page/28/">Reuters
-via WPNN: U.S. House rejects war powers resolution, backs Trump on Iran
-war</a></p>
-<p><a href="https://www.youtube.com/watch?v=3D2MMlSqX5U">PBS NewsHour:
-House expected to vote on Iran war powers resolution</a></p>
-<p><a href="https://www.straitstimes.com/world/middle-east/six-ships-turned-around-as-part-of-strait-of-hormuz-blockade-us-military-says">Reuters
-via The Straits Times: Six ships turned around as part of Strait of
-Hormuz blockade</a></p>
-<p><a href="https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-15-2026">MS
-NOW live file: Iran war news, April 15-16, 2026</a></p>
-<h3 id="the-debt-warning-hits-the-war-budget-1">The Debt Warning Hits
-The War Budget</h3>
-<p><a href="https://www.imf.org/en/blogs/articles/2026/04/15/war-shock-requires-disciplined-fiscal-reaction">IMF
-Blog: War Shock Requires Disciplined Fiscal Reaction</a></p>
-<p><a href="https://www.imf.org/external/np/exr/center/students/trade/index.htm">IMF
-publication listing: Fiscal Policy under Pressure, High Debt, Rising
-Risks</a></p>
-<p><a href="https://www.foxnews.com/politics/trump-2027-budget-preview-hints-sweeping-scale-up-core-agenda">Fox
-News: Trump FY 2027 budget preview hints at sweeping scale-up in core
-agenda</a></p>
-<p><a href="https://www.tribuneindia.com/news/world/carney-suspends-canadas-fuel-tax-in-first-act-after-securing-majority-govt/">The
-Tribune / AP: Carney suspends Canada’s fuel tax in first act after
-securing majority government</a></p>
-<h3 id="the-fed-fight-gets-messier-before-the-hearing-1">The Fed Fight
-Gets Messier Before The Hearing</h3>
-<p><a href="https://www.banking.senate.gov/hearings/04/14/2026/nomination-hearing">Senate
-Banking Committee: Nomination hearing page</a></p>
-<p><a href="https://www.federalreserve.gov/newsevents/pressreleases/other20220523a.htm">Federal
-Reserve: Powell sworn in to second four-year term as chair</a></p>
-<p><a href="https://www.investing.com/news/economy/powell-sworn-in-to-second-fouryear-term-as-fed-chief-2829269">Investing.com
-/ Reuters: Powell sworn in to second four-year term as U.S. Fed
-chief</a></p>
-<p><a href="https://www.kucoin.com/news/flash/kevin-warsh-discloses-crypto-holdings-ahead-of-fed-nomination">KuCoin
-News / Crypto Valley Journal: Kevin Warsh discloses crypto holdings
-ahead of Fed nomination</a></p>
-<p><a href="https://en.wikipedia.org/wiki/Federal_investigation_into_Jerome_Powell">Wikipedia
-summary page used only for live investigation-context discovery: Federal
-investigation into Jerome Powell</a></p>
-<h3 id="kennedy-defends-a-smaller-rewired-health-department-1">Kennedy
-Defends A Smaller, Rewired Health Department</h3>
-<p><a href="https://waysandmeans.house.gov/event/full-committee-hearing-with-health-and-human-services-secretary-robert-f-kennedy-jr/">House
-Ways and Means Committee: Full Committee Hearing with HHS Secretary
-Robert F. Kennedy Jr.</a></p>
-<p><a href="https://waysandmeans.house.gov/wp-content/uploads/2026/04/HHS-Secretary-FY-2027-Budget-TestimonyWays.pdf">House
+<h3 id="hormuz-became-the-weeks-hard-edge-1">Hormuz Became The Week’s
+Hard Edge</h3>
+<ul>
+<li><a href="https://www.kpbs.org/news/politics/2026/04/12/the-u-s-military-says-it-will-blockade-iranian-ports-as-iran-peace-talks-collapse">KPBS/NPR:
+U.S. military says it will blockade Iranian ports as Iran peace talks
+collapse</a></li>
+<li><a href="https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4457255/us-to-blockade-ships-entering-or-exiting-iranian-ports/">U.S.
+Central Command: U.S. to blockade ships entering or exiting Iranian
+ports</a></li>
+<li><a href="https://www.airforcetimes.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/">Air
+Force Times/Reuters: U.S. Navy to blockade Strait of Hormuz effective
+immediately</a></li>
+<li><a href="https://www.hawaiitribune-herald.com/2026/04/18/nation-world-news/iran-says-strait-of-hormuz-open-as-trump-sees-deal-soon-to-end-war/amp/">Hawaii
+Tribune-Herald/Reuters: Iran says Strait of Hormuz open as Trump sees
+deal soon</a></li>
+<li><a href="https://www.washingtonpost.com/business/2026/04/18/iran-israel-us-lebanon-latest-april-18-2026/807db87e-3ae3-11f1-90c4-9772c7fabc03_story.html">Washington
+Post/AP live file: Iran reimposes restrictions in Strait of
+Hormuz</a></li>
+<li><a href="https://www.axios.com/2026/04/18/iran-closes-strait-of-hormuz-once-again-fires-on-tankers">Axios:
+Iran closes Strait of Hormuz once again, fires on tankers</a></li>
+<li><a href="https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels">The
+Guardian: Iran says Strait of Hormuz open but warns on U.S.
+blockade</a></li>
+</ul>
+<h3 id="the-war-shock-moved-into-the-economy-1">The War Shock Moved Into
+The Economy</h3>
+<ul>
+<li><a href="https://www.imf.org/en/news/articles/2026/04/14/tr-04142026-press-briefing-transcript-world-economic-outlook-spring-meetings-2026">IMF:
+World Economic Outlook Spring Meetings 2026 press briefing
+transcript</a></li>
+<li><a href="https://www.imf.org/en/blogs/articles/2026/04/15/war-shock-requires-disciplined-fiscal-reaction">IMF:
+War Shock Requires Disciplined Fiscal Reaction</a></li>
+<li><a href="https://www.imf.org/en/publications/fm">IMF: Fiscal Monitor
+publication page</a></li>
+<li><a href="https://www.iea.org/reports/oil-market-report-april-2026">IEA: Oil
+Market Report - April 2026</a></li>
+<li><a href="https://apnews.com/article/carney-canada-elections-majority-trump-f4e8de5e540ee1cc7a2b7ec5c4479bb2">AP:
+Carney suspends Canada’s fuel tax in first act after securing
+majority</a></li>
+<li><a href="https://www.banking.senate.gov/hearings/04/14/2026/nomination-hearing">Senate
+Banking Committee: Kevin Warsh nomination hearing page</a></li>
+<li><a href="https://www.banking.senate.gov/newsroom/minority/all-banking-committee-democrats-call-for-delay-of-warsh-hearing-as-trump-attempts-to-take-over-fed">Senate
+Banking Committee Democrats: Call for delay of Warsh hearing</a></li>
+<li><a href="https://www.federalreserve.gov/newsevents/pressreleases/other20220523e.htm">Federal
+Reserve: Powell sworn in for second chair term; term dates</a></li>
+</ul>
+<h3 id="fisa-got-ten-days-not-a-settlement-1">FISA Got Ten Days, Not A
+Settlement</h3>
+<ul>
+<li><a href="https://www.cbsnews.com/amp/news/senate-passes-short-term-fisa-extension-after-house-does/">CBS
+News: Senate passes short-term FISA extension through April 30</a></li>
+<li><a href="https://www.axios.com/2026/04/17/fisa-senate-vote-april-30-house-revolt">Axios:
+Senate clears short-term FISA extension</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/apr/17/congress-fisa-extension-warrantless-surveillance-law">The
+Guardian: U.S. Congress passes 10-day extension of surveillance
+law</a></li>
+<li><a href="https://www.opb.org/article/2026/04/17/house-extends-surveillance-powers-for-10-days/">OPB/NPR:
+House extends surveillance powers for 10 days</a></li>
+<li><a href="https://www.congress.gov/crs-product/R48592">Congressional
+Research Service: FISA Section 702 and the 2024 Reforming Intelligence
+and Securing America Act</a></li>
+</ul>
+<h3 id="agency-churn-became-the-domestic-story-1">Agency Churn Became
+The Domestic Story</h3>
+<ul>
+<li><a href="https://waysandmeans.house.gov/event/full-committee-hearing-with-health-and-human-services-secretary-robert-f-kennedy-jr/">House
+Ways and Means Committee: HHS Secretary Robert F. Kennedy
+Jr. hearing</a></li>
+<li><a href="https://waysandmeans.house.gov/wp-content/uploads/2026/04/HHS-Secretary-FY-2027-Budget-TestimonyWays.pdf">House
 Ways and Means Committee PDF: Kennedy FY 2027 HHS budget
-testimony</a></p>
-<p><a href="https://www.soc-neuro-onc.org/WEB/WEB/About_Content/Public_Policy_Page/Health_Care_Policy_Press.aspx">Health
-Care Policy Press: White House budget proposes billions in cuts to
-health programs</a></p>
+testimony</a></li>
+<li><a href="https://www.cbsnews.com/news/trump-nominates-erica-schwartz-cdc-director/">CBS
+News: Trump announces Erica Schwartz nomination for CDC
+director</a></li>
+<li><a href="https://www.boston.com/news/health/2026/04/16/trump-nominates-erica-schwartz-former-deputy-surgeon-general-to-serve-as-cdc-director/">AP
+via Boston.com: Trump nominates Erica Schwartz to serve as CDC
+director</a></li>
+<li><a href="https://apnews.com/article/da46097e88f93a7d6e15570222a34f06">AP:
+ICE acting director Todd Lyons will resign at end of May</a></li>
+<li><a href="https://www.ntd.com/acting-ice-director-todd-lyons-to-leave-agency-at-end-of-may_1139289.html">Reuters
+via NTD: Acting ICE Director Todd Lyons to leave agency at end of
+May</a></li>
+</ul>
+<h3 id="canada-and-hungary-changed-the-governing-math-1">Canada And
+Hungary Changed The Governing Math</h3>
+<ul>
+<li><a href="https://apnews.com/article/carney-canada-special-elections-trump-304cca23cd562e911002aa2c83f19fb2">AP:
+Canadian Prime Minister Carney secures a majority government</a></li>
+<li><a href="https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government">The
+Guardian: Mark Carney secures majority government in Canada</a></li>
+<li><a href="https://www.pm.gc.ca/en/news/news-releases/2026/03/08/prime-minister-carney-announces-elections">Prime
+Minister of Canada: Carney announces by-elections</a></li>
+<li><a href="https://apnews.com/article/hungary-election-orban-magyar-0d0cafc08176a001218837254bc0c2a4">AP:
+Hungary ponders life after Orban</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz">Al
+Jazeera: Peter Magyar wins Hungary election</a></li>
+</ul>
 <h3 id="briefs-1">Briefs</h3>
-<p><a href="https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-15-2026">MS
-NOW live file: Iran war, Israel-Lebanon talks, and regional death toll
-reporting</a></p>
-<p><a href="https://www.tribuneindia.com/news/world/carney-suspends-canadas-fuel-tax-in-first-act-after-securing-majority-govt/">The
-Tribune / AP: Carney suspends Canada’s fuel tax after majority
-win</a></p>
-<p><a href="https://www.chron.com/texas/article/alcohol-distilling-ban-unconstitutional-22202501.php">Houston
+<ul>
+<li><a href="https://gillen.house.gov/media/press-releases/rep-gillen-passes-first-bill-introduced-congress-extend-tps-haitians-after">Rep. Laura
+Gillen: House passes bill to extend TPS for Haitians</a></li>
+<li><a href="https://apnews.com/article/new-jersey-special-election-house-mejia-hathaway-4e06943281e19aa35b10ddf8acec889b">AP:
+Analilia Mejia wins New Jersey’s 11th District special election</a></li>
+<li><a href="https://www.chron.com/texas/article/alcohol-distilling-ban-unconstitutional-22202501.php">Houston
 Chronicle: Federal appeals court rules against 158-year-old home
-distilling ban</a></p>
-<p><a href="https://www.washingtonpost.com/donald-trump/">Washington
-Post: Donald Trump politics page and Georgia special-election live
-coverage</a></p>
+distilling ban</a></li>
+<li><a href="https://fitzpatrick.house.gov/2026/4/fitzpatrick-defends-pope-blasts-trump">Rep. Brian
+Fitzpatrick: Fitzpatrick defends Pope, blasts Trump</a></li>
+</ul>
 </body>
 </html>
